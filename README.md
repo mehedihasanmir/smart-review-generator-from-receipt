@@ -82,7 +82,7 @@ The engine compiles the weighted conversation history. It constructs a complex p
 ---
 
 ## 📂 Project Structure
-
+```bash
 The following directory structure outlines the organization of the codebase:
 
 smart-review-generator-from-receipt/
@@ -94,7 +94,7 @@ smart-review-generator-from-receipt/
 ├── product_logic.py      # Business logic: Determines which products are eligible for review
 ├── ai_engine.py          # The Core Brain: Contains LangChain chains for Q&A and Generation
 └── ui_handler.py         # CLI: Manages print statements, inputs, and error messaging
-
+```
 ---
 
 ## 🛠️ System Architecture
