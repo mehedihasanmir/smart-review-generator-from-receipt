@@ -95,6 +95,8 @@ smart-review-generator-from-receipt/
 ├── ai_engine.py          # The Core Brain: Contains LangChain chains for Q&A and Generation
 └── ui_handler.py         # CLI: Manages print statements, inputs, and error messaging
 
+---
+
 ## 🛠️ System Architecture
 
 The system adheres to a rigorous, linear data pipeline designed to ensure robust error handling and data integrity:
