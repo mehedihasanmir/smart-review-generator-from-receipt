@@ -1,20 +1,14 @@
 # 🧾 Smart Review Generator from Receipt
 
 <div align="center">
-
-**Facilitating the automated conversion of unstructured receipt data into authentic, human-centric product reviews.**
-
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green)](https://openai.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-Orchestration-blueviolet)](https://langchain.com/)
 
 </div>
-
 ---
 
 ## 📖 Overview
-
-Facilitating the automated conversion of receipt data into authentic, human-centric product reviews.
 
 Smart Review Generator is a modular, artificially intelligent Command Line Interface (CLI) application designed to automate the product review workflow. This system mitigates the friction associated with drafting detailed feedback by recontextualizing the user experience as a conversational interaction. Through the ingestion of receipt data, the application verifies purchase context, generates dynamic, context-sensitive inquiry protocols, and synthesizes naturalistic reviews utilizing LangChain and OpenAI.
 
