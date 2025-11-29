@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "review_text": "This Champion hoodie? Yeah, it's very comfortable. The soft cotton blend really makes a difference, especially when it's cold out. The hood? It's adjustable, fits different head sizes no problem. Only issue is with the front pocket. Personally, I don't like it much. In my case, it seemed to lose its shape after a few days. But still, overall, it's a solid hoodie. Definitely worth keeping this stocked.",
+      "tone_id": "tone_concise",
+      "tone_style": "concise",
+      "keywords_used": [
+        "it's",
+        "very",
+        "comfortable",
+        "yeah",
+        "hood",
+        "adjustable",
+        "parsonally",
+        "don't",
+        "like",
+        "case"
+      ],
+      "category": "clothing",
+      "rating": 4,
+      "product_name": "Hoodie",
+      "brand": "Champion",
+      "sku": "CH-HOOD-001",
+      "timestamp": "2025-11-30T03:14:47.204364",
+      "intro_style": "contextual",
+      "num_questions": 4
+    }
+  ]
+}

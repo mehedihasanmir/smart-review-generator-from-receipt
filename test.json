@@ -1,0 +1,17 @@
+{
+  "receipt_id": "RCP-2024-012",
+  "store_name": "Target",
+  "purchase_date": "2024-11-07",
+  "products": [
+    {
+      "product_name": "Hoodie",
+      "brand": "Champion",
+      "category": "clothing",
+      "sku": "CH-HOOD-001",
+      "key_features": ["soft cotton blend", "warm and comfortable", "adjustable drawstring hood", "front kangaroo pocket"],
+      "size": "Medium",
+      "color": "Black",
+      "price": 29.99
+    }
+  ]
+}
