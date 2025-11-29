@@ -1,11 +1,15 @@
 # 🧾 Smart Review Generator from Receipt
 
 <div align="center">
+
+**Facilitating the automated conversion of unstructured receipt data into authentic, human-centric product reviews.**
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green)](https://openai.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-Orchestration-blueviolet)](https://langchain.com/)
 
 </div>
+
 ---
 
 ## 📖 Overview
